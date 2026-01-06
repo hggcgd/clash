@@ -1,5 +1,8 @@
 # clash for window 极简版
 
+下载地址： https://github.com/hggcgd/clash/releases/download/1.0/clash.zip
+
+
 ## 功能介绍
 
 - 轻量 mihomo内嵌核心( https://github.com/metacubex/mihomo) ：进程内直接调用，低延迟、无需额外进程与端口层面的 HTTP 代理交互。
