@@ -1,14 +1,14 @@
 # clash for window 极简版
 
-下载地址： https://github.com/hggcgd/clash/releases/download/1.0/clash.zip
-
+下载地址：解压版 https://github.com/hggcgd/clash/releases/download/1.0/clash.zip
+         安装版 https://github.com/hggcgd/clash/releases/download/1.0/clash-setup.exe
 
 ## 功能介绍
 
-- 轻量 mihomo内嵌核心( https://github.com/metacubex/mihomo) ：进程内直接调用，低延迟、无需额外进程与端口层面的 HTTP 代理交互。
+- 轻量内嵌核心：进程内直接调用，低延迟、无需额外进程与端口层面的 HTTP 代理交互。
 - 托盘快捷管理：提供系统托盘菜单，支持一键开启/关闭系统代理、自动启动、打开面板、管理员重启、TUN（游戏）模式切换等。
-- 订阅管理：自动生成并重载 `config.yaml`，带健康检查与定时更新,方便小白，锁死配置文件。
-- 使用 zashboard面板( 来自https://github.com/Zephyruso/zashboard)
+- 订阅管理：自动生成并重载 `config.yaml`，方便新用户，自动重写配置文件。
+- 适合国情，默认国内各机构不再通过代理，而影响登录各种国内的APP。
   
 ## 系统要求
 
