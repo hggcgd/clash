@@ -1,9 +1,9 @@
 # clash for window 极简版
 
-下载地址：
-解压版 
+##下载地址：
+##解压版 
 https://github.com/hggcgd/clash/releases/download/1.0/clash.zip
-安装版 
+##安装版 
 https://github.com/hggcgd/clash/releases/download/1.0/clash-setup.exe
 
 ## 功能介绍
